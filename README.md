@@ -8,7 +8,8 @@ Miscellaneous cheat sheets some created many stolen
 * [The Matrix Calculus You Need For Deep Learning](http://explained.ai/matrix-calculus/index.html?fbclid=IwAR2o2n5vzZ0j-OFIN3AL4QXtUqYq7c2120VqmAbW2mjlamcRKNJU0enBWug)
 
 ## Deep Learning
-* * [cs229 Deep Learning Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html)
+* [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io) - Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more.
+* [cs229 Deep Learning Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html)
 
 ## Reinforcement Learning
 * [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)
